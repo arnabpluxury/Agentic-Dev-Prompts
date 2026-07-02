@@ -2,7 +2,7 @@
 
 # ❖ GOD-TIER SYSTEM PROMPTS ❖
 
-<img src="https://tenor.com/view/keyboard-hanamaru-kindergarten-anime-hiiragi-blue-eyes-gif-23918674" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
+<img src="https://i.postimg.cc/Gp5W5XPX/keyboard-hanamaru-kindergarten.gif" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
 
 > **An elite collection of highly engineered, production-ready LLM prompts for software architects, developers, and AI agents.**
 
