@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Maintained Status](https://img.shields.io/badge/Maintained%3F-Yes-00FF00.svg?style=for-the-badge)](#-roadmap--future-updates)
 [![GitHub stars](https://img.shields.io/github/stars/arnabpluxury/useful-agent-prompts?style=for-the-badge&color=blue)](https://github.com/arnabpluxury/useful-agent-prompts/stargazers)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://ko-fi.com/arnabimperiale)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/arnabimperiale)
 
 </div>
 
