@@ -67,3 +67,9 @@ curl -s [https://raw.githubusercontent.com/arnabpluxury/useful-agent-prompts/mai
 
 # Pipe the Architecture prompt directly into a local Ollama instance
 curl -s [https://raw.githubusercontent.com/arnabpluxury/useful-agent-prompts/main/backend-architecture.md](https://raw.githubusercontent.com/arnabpluxury/useful-agent-prompts/main/backend-architecture.md) | ollama run qwen2.5-coder
+```
+
+☕ Support the Project
+If these prompts saved you hours of debugging, helped you architect a massive project, or just leveled up your workflow, consider supporting the caffeine that keeps this repo alive.
+
+Architected & Maintained with 🖤 by Arnab.
