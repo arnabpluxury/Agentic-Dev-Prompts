@@ -42,6 +42,20 @@ Simply copy the contents of any `.txt` file and paste it into your AI agent or L
 
 For developers looking to integrate these directly into their CI/CD pipelines, agentic workflows, or local terminal configurations, you can fetch the raw prompts dynamically using GitHub's raw user content URLs.
 
+⚙️ How to Use
+Select your domain: Identify the exact file that matches your current engineering blocker.
+
+Copy verbatim: Do not alter the core structure of the prompt. They are engineered for maximum context retention.
+
+Append your context: Paste the prompt into your AI, followed by your specific codebase, errors, or requirements.
+
+Execute: Watch the model output production-ready solutions.
+
+☕ Support the Developer
+If these prompts saved you hours of debugging, helped you architect a massive project, or just blew your mind, consider supporting the caffeine that keeps this repo alive.
+
+Maintained with 🖤 by Arnab.
+
 ### ◥◣ Fetch via cURL
 
 Need a prompt immediately in your terminal for a local script? Fetch it directly:
