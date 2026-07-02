@@ -42,6 +42,17 @@ Simply copy the contents of any `.txt` file and paste it into your AI agent or L
 
 For developers looking to integrate these directly into their CI/CD pipelines, agentic workflows, or local terminal configurations, you can fetch the raw prompts dynamically using GitHub's raw user content URLs.
 
+### ◥◣ Fetch via cURL
+
+Need a prompt immediately in your terminal for a local script? Fetch it directly:
+
+```bash
+# Example: Fetch the Security Audit prompt directly to your clipboard (macOS)
+curl -s [https://raw.githubusercontent.com/yourusername/yourrepo/main/security-audit.txt](https://raw.githubusercontent.com/yourusername/yourrepo/main/security-audit.txt) | pbcopy
+
+# Example: Pipe the Architecture prompt directly into a local Ollama instance
+curl -s [https://raw.githubusercontent.com/yourusername/yourrepo/main/backend-architecture.txt](https://raw.githubusercontent.com/yourusername/yourrepo/main/backend-architecture.txt) | ollama run qwen2.5-coder
+```
 ⚙️ How to Use
 Select your domain: Identify the exact file that matches your current engineering blocker.
 
@@ -54,15 +65,4 @@ Execute: Watch the model output production-ready solutions.
 ☕ Support the Developer
 If these prompts saved you hours of debugging, helped you architect a massive project, or just blew your mind, consider supporting the caffeine that keeps this repo alive.
 
-Maintained with 🖤 by Arnab.
-
-### ◥◣ Fetch via cURL
-
-Need a prompt immediately in your terminal for a local script? Fetch it directly:
-
-```bash
-# Example: Fetch the Security Audit prompt directly to your clipboard (macOS)
-curl -s [https://raw.githubusercontent.com/yourusername/yourrepo/main/security-audit.txt](https://raw.githubusercontent.com/yourusername/yourrepo/main/security-audit.txt) | pbcopy
-
-# Example: Pipe the Architecture prompt directly into a local Ollama instance
-curl -s [https://raw.githubusercontent.com/yourusername/yourrepo/main/backend-architecture.txt](https://raw.githubusercontent.com/yourusername/yourrepo/main/backend-architecture.txt) | ollama run qwen2.5-coder
+Maintained with 🖤 by Raj.
