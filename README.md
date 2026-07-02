@@ -2,7 +2,7 @@
 
 # ❖ GOD-TIER AGENT PROMPTS ❖
 
-<img src="https://i.imgur.com/O6L6LwK.gif](https://i.postimg.cc/Gp5W5XPX/keyboard-hanamaru-kindergarten.gif" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
+<img src="https://i.postimg.cc/Gp5W5XPX/keyboard-hanamaru-kindergarten.gif" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
 
 > **An elite, ever-expanding collection of highly engineered, production-ready LLM prompts for software architects, vibe coders, and AI agents.**
 
