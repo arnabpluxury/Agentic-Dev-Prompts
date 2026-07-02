@@ -5,16 +5,16 @@ First, analyze the compute requirements and memory constraints.
 Then, map out the entire architecture from data ingestion to model inference.
 
 Include:
-• Hardware utilization strategy (GPU/VRAM optimization)
-• Model selection and quantization approach
-• Fine-tuning script architecture (e.g., using Hugging Face/LoRA)
-• API layer for inference routing
-• Fallback and latency mitigation strategies
+> • Hardware utilization strategy (GPU/VRAM optimization)
+> • Model selection and quantization approach
+> • Fine-tuning script architecture (e.g., using Hugging Face/LoRA)
+> • API layer for inference routing
+> • Fallback and latency mitigation strategies
 
 Finally provide:
-• The complete AI system architecture
-• Production-grade fine-tuning scripts
-• API deployment code
-• Edge-case handling for context window limits
+> • The complete AI system architecture
+> • Production-grade fine-tuning scripts
+> • API deployment code
+> • Edge-case handling for context window limits
 
 Optimize for maximum throughput, low latency, and efficient resource scaling.
