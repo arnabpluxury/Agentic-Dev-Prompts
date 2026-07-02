@@ -2,7 +2,7 @@
 
 # ❖ GOD-TIER SYSTEM PROMPTS ❖
 
-<img src="https://i.imgur.com/O6L6LwK.gif" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
+<img src="[https://i.imgur.com/O6L6LwK.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2duNGNrNHh3aGx6YnFjempvbXQ2ZGl1MTZraGd1MGd0YmltNmQydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKHWspJ9dRB1DSQIE/giphy.gif)" width="600" alt="Cyberpunk Aesthetic Header GIF"/>
 
 > **An elite collection of highly engineered, production-ready LLM prompts for software architects, developers, and AI agents.**
 
